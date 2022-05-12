@@ -1,0 +1,274 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
+
+     <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
+    <title>Sixteen Clothing HTML Template</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="~/lib/bootstrap/dist/css/bootstrap-grid.min.css" rel="stylesheet">
+    <link href="~/lib/bootstrap/dist/css/bootstrap-reboot.min.css" rel="stylesheet">
+    <link href="~/lib/bootstrap/dist/css/bootstrap-utilities.min.css" rel="stylesheet">
+<!--
+   
+
+ 
+TemplateMo 546 Sixteen Clothing
+
+https://templatemo.com/tm-546-sixteen-clothing
+
+-->
+
+    <!-- Additional CSS Files -->
+    <link rel="stylesheet" href="~/css/fontawesome.css">
+    <link rel="stylesheet" href="~/css/templatemo-sixteen.css">
+    <link rel="stylesheet" href="~/css/owl.css">
+    <link rel="stylesheet" href="~/css/CatSheet.css">
+
+    <!-- Libraries Stylesheet -->
+    <link href="~/css/animate.min.css" rel="stylesheet">
+    <link href="~/css/owl.carousel.css" rel="stylesheet">
+
+    <!-- Customized Bootstrap Stylesheet -->
+    <link href="~/css/style.css" rel="stylesheet">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+       <link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css'>    
+           </head>
+
+  <body>
+
+    <!-- ***** Preloader Start ***** -->
+    <div id="preloader">
+        <div class="jumper">
+            <div></div>
+            <div></div>
+            <div></div>
+        </div>
+    </div>  
+    <!-- ***** Preloader End ***** -->
+
+    <!-- Header -->
+    <header class="">
+
+
+      <nav class="navbar navbar-expand-lg">
+        <div class="container">
+          <a class="navbar-brand" href="~/Customers/Customer/Index"><h2><em>A2Z</em> Store </h2></a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav ml-auto">
+            
+
+              <li class="nav-item ">
+                <a class="nav-link" href="~/Customers/Customer/Index">Home
+                  <span class="sr-only">(current)</span>
+               </a>
+              </li> 
+              <li class="nav-item">
+                <a class="nav-link" href="~/Customers/Customer/products">Our Products</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="~/Customers/Customer/About">About Us</a>
+              </li>
+
+              <li class="nav-item">
+                <a class="nav-link" href="~/Customers/Customer/Contact">Contact Us</a>
+              </li>
+
+
+
+               
+               <li class="nav-item">
+                     <a class="nav-link" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">Logout</a>
+       @* <form  class="form-inline" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">
+            <button  type="submit" class="nav-link btn btn-link text-light">Logout</button>
+        </form>*@
+    </li>
+                 <li>
+                  <div class="navbar-left" style="margin-top:8px;">
+                      <form asp-area="Customers" asp-controller="Customer" asp-action="Search">      @*class="form-control bg-secondary border-0 text-center quantity"*@
+                            <input type="text"  name="name" id="srchName" width="5px" placeholder="Search">
+                            <button type="submit" class="btn  btn-warning px-3"><i class="fa fa-search"></i></button>
+                            @*<button type="submit" id="btnSubmit" class="btn btn-primary px-3 " >Search</button>*@
+                      </form>
+                  </div>
+              </li>
+              <li class="nav-item">
+                   <a class="nav-link" href="~/Customers/Customer/AddToCart"><span class='bi bi-cart-check-fill '></span></a>
+                @*    <form  class="form-inline"asp-area="Customers" asp-controller="Customer" asp-action="AddToCart">
+            
+                  <button type="submit" class="btn btn-primary px-3"><span class='bi bi-cart-check-fill ' style='color: white;width:50px'></span></button>
+                  </form>*@
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+    </header>
+
+    <!-- Page Content -->
+   
+
+   @RenderBody()
+
+   @* <div class="best-features">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="section-heading">
+              <h2>Categories</h2>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="left-content">
+              <h4>Looking for the best products?</h4>
+              <p><a rel="nofollow" href="https://templatemo.com/tm-546-sixteen-clothing" target="_parent">This template</a> is free to use for your business websites. However, you have no permission to redistribute the downloadable ZIP file on any template collection website. <a rel="nofollow" href="https://templatemo.com/contact">Contact us</a> for more info.</p>
+              <ul class="featured-list">
+                <li><a href="#">Lorem ipsum dolor sit amet</a></li>
+                <li><a href="#">Consectetur an adipisicing elit</a></li>
+                <li><a href="#">It aquecorporis nulla aspernatur</a></li>
+                <li><a href="#">Corporis, omnis doloremque</a></li>
+                <li><a href="#">Non cum id reprehenderit</a></li>
+              </ul>
+              <a href="about.html" class="filled-button">Read More</a>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="right-image">
+              <img src="~/images/feature-image.jpg" alt="">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>*@
+
+
+   
+
+    
+    <footer>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="inner-content">
+              <p>Copyright &copy; 2022 A2Z Store Co., Ltd.
+            
+            @*- Design: <a rel="nofollow noopener" href="https://templatemo.com" target="_blank">TemplateMo</a></p>*@
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+
+
+    <!-- Additional Scripts -->
+    <script src="~/js/custom.js"></script>
+    <script src="~/js/owl.js"></script>
+    <script src="~/js/slick.js"></script>
+    <script src="~/js/isotope.js"></script>
+    <script src="~/js/accordions.js"></script>
+
+   
+  
+
+
+    <script language = "text/Javascript"> 
+      cleared[0] = cleared[1] = cleared[2] = 0; //set a cleared flag for each field
+      function clearField(t){                   //declaring the array outside of the
+      if(! cleared[t.id]){                      // function makes it static and global
+          cleared[t.id] = 1;  // you could use true and false, but that's more typing
+          t.value='';         // with more chance of typos
+          t.style.color='#fff';
+          }
+      }
+    </script>
+     <script src="~/js/easing.js"></script>
+    <script src="~/js/owl.carousel.js"></script>
+
+  <script src="~/js/jqBootstrapValidation.min.js"></script>
+    <script src="mail/contact.js"></script>
+
+    <!-- Template Javascript -->
+    <script src="~/js/main.js"></script>
+     @*<script src="~/js/site.js" asp-append-version="true"></script>*@
+    @await RenderSectionAsync("Scripts", required: false)
+  </body>
+
+</html>
+
+
+
+@*<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - PurchasingSystem</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/PurchasingSystem.styles.css" asp-append-version="true" />
+
+    <link rel="stylesheet" href="~/css/fontawesome.css">
+    <link rel="stylesheet" href="~/css/templatemo-sixteen.css">
+    <link rel="stylesheet" href="~/css/owl.css">
+
+        <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
+
+
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">PurchasingSystem</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2022 - PurchasingSystem - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
+*@

@@ -1,0 +1,173 @@
+﻿@using FinalProject.Models
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    var Cat = (Category)ViewBag.Cat;
+    var Cats = (List<Category>)ViewBag.Cats;
+    var mes = (string)ViewBag.Mes;
+
+}
+@model FinalProject.Models.Item
+     <div class="page-heading products-heading header-text">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="text-content">
+              <h4>new arrivals</h4>
+              <h2>A2Z products</h2>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div>
+      <br />
+    </div>
+    <div class="container-fluid pb-5">
+        <div class="row px-xl-5">
+            <div class="col-lg-5 h-auto mb-30">
+               
+                        <div >
+                            <img class="w-100 h-100" src="~/images/@Model.Photopath" alt="Image">
+                        </div>        
+            </div>
+
+            <div class="col-lg-7 h-auto mb-30">
+                <div class="h-100 bg-white p-30">
+            
+                    <h3>@Model.Name</h3>
+                  
+                    <h3 class="font-weight-semi-bold mb-4">$@Model.Price</h3>
+                    <p class="mb-4">@Model.Description</p>
+                @* </div>*@
+                    
+                   
+                    <div class="d-flex align-items-center mb-4 pt-2">
+                        <div class="input-group quantity mr-3" style="width: 130px;">
+                            <div class="input-group-btn">
+                                <button class="btn btn-warning btn-minus " id="bt">
+                                   <b>-</b>
+                                </button>
+                            </div>
+                            <div class="input-group-btn">
+                                <button class="btn  btn-warning btn-plus" id="bt">
+                                    <b>+</b>
+                                </button>
+                            </div><br />
+                         <form asp-area="Customers" asp-controller="Customer" asp-action="details" asp-route-id="@Model.ID">      
+                            <input type="text" class="form-control bg-light border-0 text-center quantity" name="num" value="1"><br />
+                          
+                            @for(int i=0;i<@Model.Details.Split("/").Count();i++)
+                   { <div class="d-flex mb-3">
+                        <strong class="text-dark mr-3">@Model.Details.Split("/")[i].Split(":")[0]</strong>
+                       
+                                <select name=@Model.Details.Split("/")[i].Split(":")[0] >
+                        @for(int j=0;j<@Model.Details.Split("/")[i].Split(":")[1].Split(",").Count();j++)
+                           {
+                                <option value=@Model.Details.Split("/")[i].Split(":")[1].Split(",")[j]>@Model.Details.Split("/")[i].Split(":")[1].Split(",")[j]</option>
+                            }
+                            </select>
+                            </div>
+                            }
+        <button type="submit" id="btnSubmit" class="btn  btn-warning px-3 " >Add To Cart</button>
+                         </form>
+                        </div>
+             @if(mes != null)
+     {  
+        <div class="alert alert-success" role="alert">
+ Added Successfully!
+</div>
+     } 
+                      </div>
+       
+        </div>
+        </div>
+        </div>
+        </div>
+      <div class="latest-products">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="section-heading">
+              <h2>Categories</h2>
+             
+            </div>
+          </div>
+          </div>
+          </div>
+        <div class="services">
+      <div class="container">
+        <div class="row">
+            @foreach(var item in Cats)
+        {  <div class="col-md-4">
+            <div class="service-item">
+              <div class="icon" width="a">
+                <img src="~/images/@item.Photo"  class="rounded-circle"  width="200px"/>
+              </div>
+              <div class="down-content">
+                <h4>@item.Name</h4>
+                <p>@item.Description</p>
+                <a href="~/Customers/Customer/Catproducts/@item.ID" class="filled-button">Show Items</a>
+              </div>
+            </div>
+          </div>
+          }
+        @*  <div class="col-md-4">
+            <div class="service-item">
+              <div class="icon">
+                <i class="fa fa-gear"></i>
+              </div>
+              <div class="down-content">
+                <h4>Customer Relations</h4>
+                <p>Lorem ipsum dolor sit amet, consectetur an adipisicing elit. Itaque, corporis nulla at quia quaerat.</p>
+                <a href="#" class="filled-button">Details</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="service-item">
+              <div class="icon">
+                <i class="fa fa-gear"></i>
+              </div>
+              <div class="down-content">
+                <h4>Global Collection</h4>
+                <p>Lorem ipsum dolor sit amet, consectetur an adipisicing elit. Itaque, corporis nulla at quia quaerat.</p>
+                <a href="#" class="filled-button">Read More</a>
+              </div>
+            </div>
+          </div>*@
+        </div>
+      </div>
+    </div>
+    </div>
+ @*
+  @if(mes != null)
+     {  
+        <div class="alert alert-success" role="alert">
+  This is a success alert—check it out!
+</div>
+ <script type="text/javascript">
+            window.onload = function () {
+                alert("Added");
+            };
+     
+        </script>
+     }
+        *@          @*      @*<button  id="submitButton"  class="btn btn-primary px-3"><i class="fa fa-shopping-cart mr-1"></i> Add To Cart</button>*@
+                   @* </div>
+
+                </div>
+            </div>
+        </div>
+
+        <script>
+ $(document).ready(function(){
+  $("#submitButton").on("click",function()
+  {
+   alert('Your Message');
+  });
+
+});*@
+@*<script>*@
+   

@@ -1,0 +1,107 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - PurchasingSystem</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    @*<link rel="stylesheet" href="~/PurchasingSystem.styles.css" asp-append-version="true" />*@
+
+    <link rel="stylesheet" href="~/css/fontawesome.css">
+    <link rel="stylesheet" href="~/css/templatemo-sixteen.css">
+    <link rel="stylesheet" href="~/css/owl.css">
+
+        <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
+
+    <title>Online purchasing</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Additional CSS Files -->
+    <link rel="stylesheet" href="~/css/fontawesome.css">
+    <link rel="stylesheet" href="~/css/templatemo-sixteen.css">
+    <link rel="stylesheet" href="~/css/owl.css">
+</head>
+<body>
+    <header>
+      @*  <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">PurchasingSystem</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>*@
+        <nav class="navbar navbar-expand-lg">
+        <div class="container">
+          <a class="navbar-brand " href="~/Admin/Admin/Index"><h2><em>A2Z</em> Store </h2></a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav ml-auto">
+              <li class="nav-item">
+                @*<a class="nav-link" href="index.html">Home</a>*@
+                  @*<span class="sr-only">(current)</span>*@
+                  @*<a href="@Url.Action("Index", "Admin")" class="nav-link" asp-area="Admin" asp-controller="Admin" asp-action="Index">Home</a>*@
+                  <a style="color:white" class="nav-link" asp-area="Admin" asp-controller="Admin" asp-action="Index" >Home</a>
+
+              
+              </li> 
+              <li class="nav-item">
+                @*<a class="nav-link" href="products.html">Our Products</a>*@
+                @*<a href="@Url.Action("Index", "Categories")" class="nav-link" asp-area="Admin" asp-controller="Categories" asp-action="Index">Categories</a>*@
+                <a  style="color:white" class="nav-link" asp-area="Admin" asp-controller="Categories" asp-action="Index">Categories</a>
+              </li>
+              <li class="nav-item">
+                @*<a href="@Url.Action("Index", "Items")" class="nav-link" asp-area="" asp-controller="Items" asp-action="Index">Items</a>*@
+                <a style="color:white" class="nav-link" asp-area="Admin" asp-controller="Items" asp-action="Index">Items</a>
+              </li>
+             
+          
+            </ul>
+            <partial name="_LoginPartial" />
+          </div>
+          </div>
+        </nav>
+
+
+      <div class="container" style="margin-top:50px">
+        @*<main role="main" class="pb-3">*@
+            @RenderBody()
+        @*</main>*@
+    </div>
+    </header>
+    
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2022 - PurchasingSystem - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

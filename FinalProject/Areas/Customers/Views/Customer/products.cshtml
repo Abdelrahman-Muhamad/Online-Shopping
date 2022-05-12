@@ -1,0 +1,129 @@
+﻿@using FinalProject.Models
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    var Cats = (List<Category>)ViewBag.Cats;
+
+}
+@model IEnumerable<FinalProject.Models.Item>
+
+       <div class="page-heading products-heading header-text">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="text-content">
+              <h4>new arrivals</h4>
+              <h2>A2Z products</h2>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+     <div style="height:40px"></div>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="section-heading">
+              <h2>Our Products</h2>
+            
+            </div>
+          </div>
+           @foreach(var item in Model)
+              {
+          <div class="col-md-4">
+            <div class="product-item">
+                  <a href="~/Customers/Customer/details/@item.ID"><img src="~/images/@item.Photopath" alt="" width="100px" height="150px" ></a>
+              <div class="down-content">
+                <a href="#"><h4>@item.Name</h4></a>
+                <h6>$@item.Price</h6>
+                <p>@item.Description</p>
+                
+              </div>
+            </div>
+          </div>
+              }
+    
+          </div>
+        </div>
+      </div>
+
+      <div class="latest-products">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="section-heading">
+              <h2>Categories</h2>
+             
+            </div>
+          </div>
+          </div>
+          </div>
+       <div class="services">
+      <div class="container">
+        <div class="row">
+            @foreach(var item in Cats)
+        {  <div class="col-md-4">
+            <div class="service-item">
+              <div class="icon" width="a">
+                <img src="~/images/@item.Photo"  class="rounded-circle"  width="200px"/>
+              </div>
+              <div class="down-content">
+                <h4>@item.Name</h4>
+                <p>@item.Description</p>
+                <a href="~/Customers/Customer/Catproducts/@item.ID" class="filled-button">Show Items</a>
+              </div>
+            </div>
+          </div>
+          }
+        @*  <div class="col-md-4">
+            <div class="service-item">
+              <div class="icon">
+                <i class="fa fa-gear"></i>
+              </div>
+              <div class="down-content">
+                <h4>Customer Relations</h4>
+                <p>Lorem ipsum dolor sit amet, consectetur an adipisicing elit. Itaque, corporis nulla at quia quaerat.</p>
+                <a href="#" class="filled-button">Details</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="service-item">
+              <div class="icon">
+                <i class="fa fa-gear"></i>
+              </div>
+              <div class="down-content">
+                <h4>Global Collection</h4>
+                <p>Lorem ipsum dolor sit amet, consectetur an adipisicing elit. Itaque, corporis nulla at quia quaerat.</p>
+                <a href="#" class="filled-button">Read More</a>
+              </div>
+            </div>
+          </div>*@
+        </div>
+      </div>
+    </div>
+    </div>
+
+     <div class="call-to-action">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="inner-content">
+              <div class="row">
+                <div class="col-md-8">
+                  <h4>Creative &amp; Unique <em>A2Z</em> Products</h4>
+                  <p>Don't miss our latest products !!</p>
+                </div>
+                <div class="col-md-4">
+                  <a href="~/Customers/Customer/products" class="filled-button">Purchase Now</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+     
+  

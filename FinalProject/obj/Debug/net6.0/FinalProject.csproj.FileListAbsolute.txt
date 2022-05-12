@@ -1,0 +1,1532 @@
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.AssemblyInfoInputs.cache
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.AssemblyInfo.cs
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.csproj.CoreCompileInputs.cache
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.MvcApplicationPartsAssemblyInfo.cs
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.MvcApplicationPartsAssemblyInfo.cache
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.RazorAssemblyInfo.cache
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.RazorAssemblyInfo.cs
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\appsettings.Development.json
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\appsettings.json
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.staticwebassets.runtime.json
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.exe
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.deps.json
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.runtimeconfig.json
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\ref\FinalProject.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.pdb
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\Humanizer.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\MessagePack.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\MessagePack.Annotations.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\NuGet.Common.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\NuGet.Configuration.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\NuGet.Frameworks.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\NuGet.LibraryModel.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\NuGet.Packaging.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\NuGet.ProjectModel.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\NuGet.Protocol.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\NuGet.Versioning.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\SendGrid.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\StarkbankEcdsa.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\System.Composition.Convention.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\System.Composition.Hosting.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\System.Composition.Runtime.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\System.Composition.TypedParts.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\obj\Debug\net6.0\staticwebassets.build.json
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\obj\Debug\net6.0\staticwebassets.development.json
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\obj\Debug\net6.0\scopedcss\bundle\FinalProject.styles.css
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\obj\Debug\net6.0\scopedcss\projectbundle\FinalProject.bundle.scp.css
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.csproj.CopyComplete
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\obj\Debug\net6.0\ref\FinalProject.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.pdb
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.genruntimeconfig.cache
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.csproj.AssemblyReference.cache
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Facebook.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Google.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.MicrosoftAccount.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\ITI\MVC\FinaPro\FinalProject\FinalProject\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\appsettings.json
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.staticwebassets.runtime.json
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.exe
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.deps.json
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.runtimeconfig.json
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ref\FinalProject.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.pdb
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Humanizer.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\MessagePack.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Facebook.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.MicrosoftAccount.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\SendGrid.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\StarkbankEcdsa.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.AssemblyInfo.cs
+C:\Users\hp\Desktop\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\Desktop\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Desktop\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.RazorAssemblyInfo.cache
+C:\Users\hp\Desktop\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.RazorAssemblyInfo.cs
+C:\Users\hp\Desktop\FinalProject\FinalProject\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hp\Desktop\FinalProject\FinalProject\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hp\Desktop\FinalProject\FinalProject\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hp\Desktop\FinalProject\FinalProject\obj\Debug\net6.0\scopedcss\bundle\FinalProject.styles.css
+C:\Users\hp\Desktop\FinalProject\FinalProject\obj\Debug\net6.0\scopedcss\projectbundle\FinalProject.bundle.scp.css
+C:\Users\hp\Desktop\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.csproj.CopyComplete
+C:\Users\hp\Desktop\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\obj\Debug\net6.0\ref\FinalProject.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.pdb
+C:\Users\hp\Desktop\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.genruntimeconfig.cache
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\libman.json
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.AssemblyInfoInputs.cache
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.AssemblyInfo.cs
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.RazorAssemblyInfo.cache
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.RazorAssemblyInfo.cs
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\appsettings.json
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\libman.json
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.staticwebassets.runtime.json
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.exe
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.deps.json
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.runtimeconfig.json
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\ref\FinalProject.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.pdb
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Facebook.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.MicrosoftAccount.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\SendGrid.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\StarkbankEcdsa.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.csproj.AssemblyReference.cache
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\obj\Debug\net6.0\scopedcss\bundle\FinalProject.styles.css
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\obj\Debug\net6.0\scopedcss\projectbundle\FinalProject.bundle.scp.css
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.csproj.CopyComplete
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\obj\Debug\net6.0\ref\FinalProject.dll
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.pdb
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.genruntimeconfig.cache
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\obj\Debug\net6.0\scopedcss\Areas\Customers\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Gehad\Desktop\pro\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.AspNet.Identity.Core.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.AspNet.Identity.Core.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\obj\Debug\net6.0\scopedcss\Areas\Customers\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.Assessment.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.Assessment.Types.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.Data.Tools.Sql.BatchParser.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.Dmf.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.Management.Assessment.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.Management.Collector.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.Management.CollectorEnum.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.Management.HadrData.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.Management.HadrModel.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.Management.RegisteredServers.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.Management.XEvent.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.Management.XEventDbScoped.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.Management.XEventEnum.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.PolicyEnum.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.Smo.Notebook.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.Smo.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.SqlWmiManagement.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.WmiEnum.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\System.Data.OleDb.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\System.Management.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\hp\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\appsettings.Development.json
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\appsettings.json
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\libman.json
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.staticwebassets.runtime.json
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.exe
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.deps.json
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.runtimeconfig.json
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\ref\FinalProject.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.pdb
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Azure.Core.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Azure.Identity.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Humanizer.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\MessagePack.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.AspNet.Identity.Core.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Facebook.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Google.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.MicrosoftAccount.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.Assessment.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.Assessment.Types.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.Data.Tools.Sql.BatchParser.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.ConnectionInfo.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.Dmf.Common.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.Dmf.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.Management.Assessment.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.Management.Collector.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.Management.CollectorEnum.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.Management.HadrData.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.Management.HadrModel.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.Management.RegisteredServers.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.Management.XEvent.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.Management.XEventDbScoped.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.Management.XEventEnum.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.PolicyEnum.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.Smo.Notebook.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.Smo.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.SmoExtended.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.SqlEnum.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.SqlWmiManagement.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.WmiEnum.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\NuGet.Common.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\SendGrid.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\StarkbankEcdsa.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\System.CodeDom.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\System.Data.OleDb.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\System.Management.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.AssemblyInfoInputs.cache
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.AssemblyInfo.cs
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.csproj.CoreCompileInputs.cache
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.MvcApplicationPartsAssemblyInfo.cs
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.MvcApplicationPartsAssemblyInfo.cache
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.RazorAssemblyInfo.cache
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.RazorAssemblyInfo.cs
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\obj\Debug\net6.0\staticwebassets.build.json
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\obj\Debug\net6.0\staticwebassets.development.json
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\obj\Debug\net6.0\scopedcss\Areas\Customers\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\obj\Debug\net6.0\scopedcss\bundle\FinalProject.styles.css
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\obj\Debug\net6.0\scopedcss\projectbundle\FinalProject.bundle.scp.css
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.csproj.CopyComplete
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\obj\Debug\net6.0\ref\FinalProject.dll
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.pdb
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.genruntimeconfig.cache
+D:\Mobile cross\MVC\lastVproj\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.csproj.AssemblyReference.cache
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\appsettings.json
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\libman.json
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.staticwebassets.runtime.json
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.exe
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.deps.json
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.runtimeconfig.json
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ref\FinalProject.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\FinalProject.pdb
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Facebook.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.MicrosoftAccount.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.Assessment.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.Assessment.Types.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.Data.Tools.Sql.BatchParser.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.Dmf.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.Management.Assessment.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.Management.Collector.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.Management.CollectorEnum.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.Management.HadrData.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.Management.HadrModel.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.Management.RegisteredServers.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.Management.XEvent.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.Management.XEventDbScoped.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.Management.XEventEnum.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.PolicyEnum.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.Smo.Notebook.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.Smo.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.SqlWmiManagement.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.SqlServer.WmiEnum.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\SendGrid.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\StarkbankEcdsa.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\System.Data.OleDb.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\System.Management.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.csproj.AssemblyReference.cache
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.AssemblyInfoInputs.cache
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.AssemblyInfo.cs
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.RazorAssemblyInfo.cache
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.RazorAssemblyInfo.cs
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\obj\Debug\net6.0\scopedcss\Areas\Customers\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\obj\Debug\net6.0\scopedcss\bundle\FinalProject.styles.css
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\obj\Debug\net6.0\scopedcss\projectbundle\FinalProject.bundle.scp.css
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.csproj.CopyComplete
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\obj\Debug\net6.0\ref\FinalProject.dll
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.pdb
+C:\Users\Gehad\Desktop\FinalProject\FinalProject\obj\Debug\net6.0\FinalProject.genruntimeconfig.cache

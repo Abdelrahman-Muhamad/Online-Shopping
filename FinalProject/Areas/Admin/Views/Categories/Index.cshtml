@@ -1,0 +1,54 @@
+﻿@model IEnumerable<FinalProject.Models.Category>
+
+@{
+    Layout = "_AdminLayout";
+}
+@{
+    ViewData["Title"] = "Index";
+}
+
+<link rel="stylesheet" type="text/css" href="~/css/util.css">
+<link rel="stylesheet" type="text/css" href="~/css/main.css">
+<script defer src="~/js/main.js"></script>
+<script defer src="~/jquery/jquery-3.2.1.min.js"></script>
+
+<h1>Categories</h1>
+
+<p>
+    <form>
+        <button class="button" asp-area="Admin" asp-controller="Categories" asp-action="Create">Create New</button>
+    </form>
+    @*<a asp-action="Create">Create New</a>*@
+</p>
+<div class="table100 ver5 m-b-110">
+    <table data-vertable="ver5">
+    <thead>
+        <tr  class="row100 head">
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th></th>
+             <th></th>
+              <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr class="row100">
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+             <td>
+                     <a asp-action="Edit" asp-route-id="@item.ID">Edit</a> 
+                </td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@item.ID">Details</a>
+                </td>
+                <td>
+                    <a asp-action="Delete" asp-route-id="@item.ID">Delete</a>
+                </td>
+        </tr>
+}
+    </tbody>
+</table>
+</div>
